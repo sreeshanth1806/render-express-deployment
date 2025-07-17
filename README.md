@@ -20,7 +20,7 @@ render-express-deployment/
 ---
 
 ## 🌐 Live Demo
-👉 [View Deployed App](https://to-do-list-m3rv.onrender.com/)  
+👉 [View Deployed App](https://to-do-list-m3rv.onrender.com)  
 
 ---
 
